@@ -1,9 +1,6 @@
 # RAG-LLM-for-Jira-Ticket-Analysis
 RAG LLM for Jira Ticket Analysis Experiment
 
-# RAG-LLM-for-Jira-Ticket-Analysis
-RAG LLM for Jira Ticket Analysis Experiment
-
 Overview
 
 I wanted to experiment with LLMs (Large Language Models) and RAG (Retrieval-Augmented Generation) to see if it was possible to deploy all the required components using containers. When I discovered the Ollama Docker container, I decided to test a few use cases.
