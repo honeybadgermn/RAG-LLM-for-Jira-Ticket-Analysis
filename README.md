@@ -10,9 +10,9 @@ One of those use cases was enabling users to interact with Jira incident tickets
 How It Works
 
 This project is built using three main components, all running inside Docker containers:
-	1.	Ollama (LLM Container) – Provides the core language model processing.
-	2.	Python Backend (FastAPI) – Handles data retrieval and converts Jira CSV data into a structured format for querying.
-	3.	React Frontend – A web UI where users can ask questions and receive insights about Jira tickets.
+1. Ollama (LLM Container) – Provides the core language model processing.
+2. Python Backend (FastAPI) – Handles data retrieval and converts Jira CSV data into a structured format for querying.
+3. React Frontend – A web UI where users can ask questions and receive insights about Jira tickets.
 
 This setup ensures that all data processing remains within the local environment without relying on external APIs or cloud services.
 
@@ -21,10 +21,10 @@ Project Structure
 This section describes the key files and directories in this project.
 
 Backend (FastAPI)
-	•	backend/Dockerfile – Defines the Python backend container, installing dependencies and setting up FastAPI.
-	•	backend/src/main.py – The main FastAPI application that handles API requests.
-	•	backend/src/rag_retriever.py – Implements the RAG retrieval logic, processing Jira ticket data and returning relevant information.
-	•	backend/requirements.txt – Lists Python dependencies, including uvicorn, pandas, and fastapi.
+- backend/Dockerfile – Defines the Python backend container, installing dependencies and setting up FastAPI.
+- backend/src/main.py – The main FastAPI application that handles API requests.
+- backend/src/rag_retriever.py – Implements the RAG retrieval logic, processing Jira ticket data and returning relevant information.
+- backend/requirements.txt – Lists Python dependencies, including uvicorn, pandas, and fastapi.
 
 Frontend (React)
 	•	web/Dockerfile – Defines the frontend container, setting up React for the UI.
