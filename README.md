@@ -61,4 +61,8 @@ Future Enhancements
 	•	Integration with live Jira APIs instead of CSV files.
     •	Transition to Vector DB.
 	•	Enhance respnses to determine frequent fix actions.
+<<<<<<< HEAD
 	•	Integration with Confluence Documentation to find instructions on how to resolve an issue.
+=======
+	•	Integration with Confluence Documentation to find instructions on how to resolve an issue.
+>>>>>>> 23a4103 (Start)
