@@ -32,7 +32,7 @@ def query_rag(user_query: str = Body(..., embed=True)):
     print("[DEBUG] Context for LLM prompt:\n", context)
 
     prompt = f"""
-    Below is a list of tickets. Each chunk shows "Issue key", "Status", "TADS Affected System(s)", and "Summary".
+    Below is a list of tickets. Each chunk shows "Issue key", "Status", and "Affected System(s)".
 
     Please answer the user’s question using only these ticket lines. If you need to count them, list them first, then give the total. If any info is missing, say "I don’t know."
 

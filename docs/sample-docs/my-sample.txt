@@ -1,115 +1,91 @@
 Issue key: TADSCT-4588
 Status: In Progress
-Affected System(s): N/A
-Summary: User unable to access AFW-WEBs Net-?
+Affected System(s): Space
 
 Issue key: TADSCT-4587
 Status: In Progress
-Affected System(s): N/A
-Summary: XXXX WeatherView Meteogram issues
+Affected System(s): Satellite
 
 Issue key: TADSCT-4586
 Status: In Review
-Affected System(s): N/A
-Summary: WXFIIG Issue
+Affected System(s): Server
 
 Issue key: TADSCT-4585
 Status: In Progress
-Affected System(s): N/A
-Summary: PAIS issue
+Affected System(s): Storage
 
 Issue key: TADSCT-4584
 Status: In Review
-Affected System(s): N/A
-Summary: SWAFSWARN not updating on NET?
+Affected System(s): Storage
 
 Issue key: TADSCT-4583
 Status: In Review
-Affected System(s): N/A
-Summary: SpaceWOC geomag & SWAFSWARN issue
+Affected System(s): Space
 
 Issue key: TADSCT-4582
 Status: In Progress
-Affected System(s): N/A
-Summary: WxFIIG Issue (NET?)
+Affected System(s): Space
 
 Issue key: TADSCT-4581
 Status: In Progress
-Affected System(s): N/A
-Summary: MAFPS not receiving full GALWEM model
+Affected System(s): Satelite
 
 Issue key: TADSCT-4580
 Status: In Review
-Affected System(s): N/A
-Summary: Missing Dump files
+Affected System(s): Space
 
 Issue key: TADSCT-4579
 Status: In Progress
-Affected System(s): N/A
-Summary: A/N unavailable on NET-?
+Affected System(s): Server
 
 Issue key: TADSCT-4578
 Status: In Review
-Affected System(s): N/A
-Summary: EDH-02p down
+Affected System(s): Server
 
 Issue key: TADSCT-4577
 Status: In Review
-Affected System(s): N/A
-Summary: MRMS and European Rain-Rate not updating.
+Affected System(s): Server
 
 Issue key: TADSCT-4576
 Status: In Review
-Affected System(s): N/A
-Summary: Meteogram not available on AFW-WEBS
+Affected System(s): Server
 
 Issue key: TADSCT-4575
 Status: In Review
-Affected System(s): N/A
-Summary: WXZ Charts created on NET-? are not updating on AFW-WEB
+Affected System(s): Server
 
 Issue key: TADSCT-4574
 Status: In Review
-Affected System(s): N/A
-Summary: AXXX51 bulletin not updating on Net-?
+Affected System(s): Server
 
 Issue key: TADSCT-4573
 Status: In Progress
-Affected System(s): N/A
-Summary: VMware (VDI) Issue
+Affected System(s): Server
 
 Issue key: TADSCT-4572
 Status: In Review
-Affected System(s): N/A
-Summary: AFW-WEBS not accessible on Net ?
+Affected System(s):Storage
 
 Issue key: TADSCT-4571
 Status: In Review
-Affected System(s): N/A
-Summary: FITL products not Available 
+Affected System(s): Server
 
 Issue key: TADSCT-4570
 Status: In Review
-Affected System(s): N/A
-Summary: 17 OWS Homepage on AFWWEBS Link receiving Errors
+Affected System(s): Server
 
 Issue key: TADSCT-4569
 Status: Closed
-Affected System(s): N/A
-Summary: Auroral Boundary products not updating
+Affected System(s): Satellite
 
 Issue key: TADSCT-4568
 Status: Closed
-Affected System(s): N/A
-Summary: SWAP space issues
+Affected System(s): Server
 
 Issue key: TADSCT-4567
 Status: Closed
-Affected System(s): N/A
-Summary: WXZ receiving "access denied" when trying to upload charts to SecureCRT (NET?)
+Affected System(s): Server
 
 Issue key: TADSCT-4566
 Status: Closed
-Affected System(s): N/A
-Summary: ISW Operator not able to login
-
+Affected System(s): Server
