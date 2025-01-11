@@ -51,8 +51,9 @@ These queries allow teams to analyze Jira data quickly without manually searchin
 
 How to Run
 1. Clone the repository:
-2. Start all services: docker compose up --build
-3. Access the UI: http://localhost:3000 
+2. Start all services: docker compose up --build #Optionally use -d
+3. After first build you need to pull the model "docker exec -it ollama /bin/sh -c "ollama pull llama2"
+4. Access the UI: http://localhost:3000 
 
 Future Enhancements
 - Better parsing of Jira ticket descriptions and comments.
